@@ -283,5 +283,13 @@
     "@backstage/plugin-vault-node": "0.1.10",
     "@backstage/plugin-xcmetrics": "0.2.52"
   },
-  "changesets": []
+  "changesets": [
+    "chilly-fireants-roll",
+    "create-app-1713476355",
+    "fluffy-hotels-wait",
+    "gorgeous-cameras-cross",
+    "green-adults-push",
+    "migrate-1713426449436",
+    "purple-parents-sin"
+  ]
 }
